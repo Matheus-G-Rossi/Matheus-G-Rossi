@@ -1,6 +1,7 @@
 <h1 align="center">Matheus G Rossi</h1>
-<div align="left">💼 Working with C# in small projects
+<div align="left">💼 Working with C# in small projects <br>
   📚Learning about HTML, CSS & JS
+  <br>
 </div>
 
 <div align="center">
