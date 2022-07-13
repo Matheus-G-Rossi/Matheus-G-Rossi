@@ -1,4 +1,7 @@
 <h1 align="center">Matheus G Rossi</h1>
+<div align="left">💼 Working with C# in small projects
+  📚Learning about HTML, CSS & JS
+</div>
 
 <div align="center">
   <a href="https://github.com/Matheus-G-Rossi">
